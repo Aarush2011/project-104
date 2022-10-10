@@ -1,0 +1,13 @@
+body{
+    background-color: aqua;
+}
+ .heading{
+   font-size: 50px;
+   font-style: oblique;
+   font-weight: bolder;
+   border-radius: 10px;
+}
+.name_persons{
+  font-size: 20px;
+  color: rgb(249, 7, 7);
+}
